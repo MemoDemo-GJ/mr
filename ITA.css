@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(240, 240, 240, 255);
+}
+th {
+  border: 3px solid black;
+  padding: 6px;
+  border-radius: 4px;
+  background-color: burlywood;
+}
+th:hover {
+  background-color: gray;
+}
+marquee {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: aliceblue;
+  width: 79%;
+}
+h1 {
+  text-align: center;
+  color: green;
+  font-size: 25px;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 75%;
+}
+a {
+  text-decoration: none;
+}
